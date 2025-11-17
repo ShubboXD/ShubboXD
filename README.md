@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm shubbo 👋</h1>
 
 <p align="center">
-  <b>18 y/o engineering student · INTJ-T · best anti-academics nerd out</b><br/>
+  <strong>18 y/o engineering student · INTJ-T · best anti-academics nerd out</strong>
 </p>
 
 <p align="center">
@@ -12,32 +12,33 @@
 
 ---
 
-### 🧠 about me
+## 🧠 about me
 
-- 🛰️ hoping for **floating cities** in future
-- 🤖 wants to **integrate machines** more with “society” *evil laugh* hahahah
-- 📚 I am creating and maintaining a self-made story idea in **Capacities** (wanna be a manga artist for my side hustle)
-- 🎯 goal: Be the man in deep tech (AI / robotics / bioengineering)
-- 🎮 games: factorio, dwarf fortress, EU4 and more (yea, the most complex drugs in existence)
-  
- 
-> My childhood was wasted instead of learning (Regret that eats me till this date) — now I'm catching up, fast.
+- 🛰️ hoping for **floating cities** in future  
+- 🤖 wants to **integrate machines** more with “society” *evil laugh* hahahah  
+- 📚 building a huge story-world in **Capacities** (manga dreams on the side)  
+- 🎯 goal: be the guy in deep tech (AI / robotics / bioengineering)  
+- 🎮 factorio, dwarf fortress, EU4 & more (aka the most complex drugs in existence)
 
----
-
-### 🧩 interests
-
-- 🧠 **Artificial Intelligence** – agents, automation, and solving male loneliness with one and only ai girlfriends
-- 🧫 **Biotech** – I wanna live long so I can learn more so yeah, want to research on better health and genetics
-- 💾 **Systems & Simulation** – strategy games, complex systems, and more automation stufff
-- 💹 **Microeconomics** – incentives, optimization, rational decision-making and growing my wallet ofc
-- 🪐 **Space** – KSP vibes (its a space game I play I like), orbital mechanics, colonization of other planets
+> My childhood was wasted instead of learning — now I'm catching up, fast.
 
 ---
 
-### 🛠️ toolbox
+## 🧩 interests
+
+| field | why it matters to me |
+|-------|----------------------|
+| 🧠 AI | agents, automation, AI girlfriends — end male loneliness |
+| 🧫 biotech | live longer so I can learn more |
+| 💾 systems | strategy games, OS internals, automation loops |
+| 💹 microeconomics | incentives, rationality, wallet goes 📈 |
+| 🪐 space | KSP vibes, orbital mechanics, offworld ruins |
+
+---
+
+## 🛠️ toolbox
 
 ```text
-Languages:   Python · SQL · C/C++ (learning) · Java (basics) · HTML/CSS · a bit of JS <br/>
-Concepts:    Algorithms · Data structures · Automation · System design (early) <br/>
-Mindset:     I wanna build something that can build something that can build something that can... you get the point.
+Languages: Python · SQL · C/C++ (learning) · Java (basics) · HTML/CSS · a bit of JS
+Concepts:  Algorithms · Data structures · Automation · Early System design
+Mindset:   I wanna build something that can build something that can build something...
