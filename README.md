@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm shubbo 👋</h1>
 
 <p align="center">
-  <b>18 y/o engineering student · INTJ-T · anti-academic future cyborg</b><br/>
+  <b>18 y/o engineering student · INTJ-T · best anti-academics nerd out</b><br/>
 </p>
 
 <p align="center">
@@ -14,29 +14,28 @@
 
 ### 🧠 about me
 
-- 🛰️ waiting for **floating cities** to stop being sci-fi  
-- 🤖 not trying to fix society — trying to **upgrade it**  
-- 📚 building my own story universe in **Capacities** (manga someday?)  
-- 🎯 aiming for deep tech: **AI / robotics / bioengineering**  
-- 🎮 I play Factorio, Dwarf Fortress, EU4, and other *intelligent madness simulators*
-
-> My childhood was spent gaming instead of learning — now I'm catching up, fast.
+- 🛰️ hoping for **floating cities** in future
+- 🤖 wants to **integrate machines** more with “society” *evil laugh* hahahah
+- 📚 I am creating and maintaining a self-made story idea in **Capacities** (wanna be a manga artist for my side hustle)
+- 🎯 goal: Be the man in deep tech (AI / robotics / bioengineering)
+- 🎮 games: factorio, dwarf fortress, EU4 and more (yea, the most complex drugs in existence)
+  
+  more: I used to play games all the time in my childhood and spent days on it and my schooling experience was as limited as my life is, so I have a painful regret about that. I wanted to be more knowledgable more early, this regret might eat me alive someday.
 
 ---
 
 ### 🧩 interests
 
-- 🧠 **AI** — agents, automation, synthetic minds & emotional models  
-- 🧫 **Biotech** — longevity, genetics, human upgrade paths  
-- 💾 **Systems & Simulation** — complex systems, emergence, automation  
-- 💹 **Microeconomics** — incentives, optimization, wealth mindset  
-- 🪐 **Space** — orbital mechanics, future colonies, KSP brainrot
+- 🧠 **Artificial Intelligence** – agents, automation, and solving male loneliness with one and only ai girlfriends
+- 🧫 **Biotech** – I wanna live long so I can learn more so yeah, want to research on better health and genetics
+- 💾 **Systems & Simulation** – strategy games, complex systems, and more automation stufff
+- 💹 **Microeconomics** – incentives, optimization, rational decision-making and growing my wallet ofc
+- 🪐 **Space** – KSP vibes (its a space game I play I like), orbital mechanics, colonization of other planets
 
 ---
 
 ### 🛠️ toolbox
 
-```text
-Languages:   Python · SQL · C/C++ (learning) · Java (basics) · HTML/CSS · JS (a bit)
-Concepts:    Algorithms · Data structures · Automation · System Design (early)
-Mindset:     Build something that builds something that builds something.
+Languages:   Python · SQL · C/C++ (learning) · Java (basics) · HTML/CSS · a bit of JS <br/>
+Concepts:    Algorithms · Data structures · Automation · System design (early) <br/>
+Mindset:     I wanna build something that can build something that can build something that can... you get the point.
