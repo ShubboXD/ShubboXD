@@ -47,7 +47,7 @@ class Shubbo:
         return "Be THAT person in deep tech (AI / robotics / bioengineering)"
 ```
 
-<table>
+<table align="center">
 <tr>
 <td>
 
