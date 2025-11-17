@@ -27,7 +27,7 @@
 ### 🧩 interests
 
 - 🧠 **Artificial Intelligence** – agents, automation, and solving male loneliness with one and only ai girlfriends
-- 🧫 **Biotech** – I wanna live long so I can learn more
+- 🧫 **Biotech** – I wanna live long so I can learn more so yeah, want to research on better health and genetics
 - 💾 **Systems & Simulation** – strategy games, complex systems, and more automation stufff
 - 💹 **Microeconomics** – incentives, optimization, rational decision-making and growing my wallet ofc
 - 🪐 **Space** – KSP vibes (its a space game I play I like), orbital mechanics, colonization of other planets
