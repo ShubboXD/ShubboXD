@@ -89,7 +89,7 @@ class Shubbo:
 
 | 🧠 **NEURAL NETWORKS** | 🧫 **BIOTECH** | 💾 **SYSTEMS** |
 |:---:|:---:|:---:|
-| Agents, automation, and solving male loneliness with AI girlfriends | Live long, learn more → research health & genetics | Strategy games, complex systems, automation |
+| Agents, automation, and solving male loneliness with the epic AI girlfriends | Live long, learn more → research health & genetics | Strategy games, complex systems, automation |
 
 | 💹 **MICROECONOMICS** | 🪐 **SPACE EXPLORATION** |
 |:---:|:---:|
