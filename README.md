@@ -21,7 +21,7 @@
 - 🎮 games: factorio, dwarf fortress, EU4 and more (yea, the most complex drugs in existence)
   
  
-> My childhood was spent gaming instead of learning (Regret) — now I'm catching up, fast.
+> My childhood was wasted instead of learning (Regret that eats me till this date) — now I'm catching up, fast.
 
 ---
 
