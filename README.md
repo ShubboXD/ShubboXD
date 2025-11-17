@@ -73,8 +73,8 @@ concepts = [
 
 # ========== CORE PHILOSOPHY ==========
 mindset = """
-I wanna build something that can build something 
-that can build something that can... you get the point.
+I can be the person that will not just change a region,
+But the entire nation along with the world over time.
 """
 ```
 
