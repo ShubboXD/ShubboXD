@@ -157,5 +157,5 @@ that can build something that can... you get the point.
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/subhodip-sikdar-8509a326a">ma linkedIn</a>
+<a href="https://www.linkedin.com/in/subhodip-sikdar-8509a326a">ma LinkedIn</a>
 </div>
