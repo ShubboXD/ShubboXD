@@ -42,7 +42,6 @@ class Shubbo:
         self.dreams = ["floating cities", "machine integration", "deep tech dominance"]
         self.side_quest = "manga artist"
         self.current_mission = "catching up on lost time"
-        self.power_level = "RAPIDLY_INCREASING"
     
     def ultimate_goal(self):
         return "Be the man in deep tech (AI / robotics / bioengineering)"
