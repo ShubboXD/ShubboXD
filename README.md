@@ -47,22 +47,6 @@ class Shubbo:
         return "Be THAT person in deep tech (AI / robotics / bioengineering)"
 ```
 
-<table align="center">
-<tr>
-<td>
-
-### 🎮 **FAVORITE DUNGEONS**
-- 🏭 **Factorio** — automation heaven
-- ⛏️ **Dwarf Fortress** — losing is fun
-- 👑 **EU4** — grand strategy addiction
-- 🚀 **KSP** — orbital mechanics simulator
-
-> *"The most complex drugs in existence"*
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 ---
