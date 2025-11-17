@@ -4,7 +4,7 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════╗
-║  18 y/o male engineering student · INTJ-T               ║
+║  18 y/o engineering student · INTJ-T                    ║
 ║  best anti-academics nerd out · deep tech enthusiast    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -138,7 +138,8 @@ that can build something that can... you get the point.
 <div align="center">
 
 
-<img src="https://komarev.com/ghpvc/?username=Shubbo&color=ff1493&style=for-the-badge&label=PROFILE_VIEWS"/>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=ff1493&style=for-the-badge&label=PROFILE_VIEWS"/>
 
 ```ascii
 ╔═══════════════════════════════════════╗
