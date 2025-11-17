@@ -81,8 +81,8 @@ class Shubbo:
 
 ### 💭 `[INNER_MONOLOGUE]`
 
-> *"My childhood was wasted instead of learning (Regret that eats me till this date)  
-> — now I'm catching up, fast."*
+> *"My childhood + teenage was wasted on entertainment instead of Socialising and learning (Regret that eats me till this date)  
+> now I'm catching up to all that, really fast."*
 
 </div>
 
