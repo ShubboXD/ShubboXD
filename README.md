@@ -20,7 +20,8 @@
 - 🎯 goal: Be the man in deep tech (AI / robotics / bioengineering)
 - 🎮 games: factorio, dwarf fortress, EU4 and more (yea, the most complex drugs in existence)
   
-  more: I used to play games all the time in my childhood and spent days on it and my schooling experience was as limited as my life is, so I have a painful regret about that. I wanted to be more knowledgable more early, this regret might eat me alive someday.
+ 
+> My childhood was spent gaming instead of learning (Regret) — now I'm catching up, fast.
 
 ---
 
@@ -36,6 +37,7 @@
 
 ### 🛠️ toolbox
 
+```text
 Languages:   Python · SQL · C/C++ (learning) · Java (basics) · HTML/CSS · a bit of JS <br/>
 Concepts:    Algorithms · Data structures · Automation · System design (early) <br/>
 Mindset:     I wanna build something that can build something that can build something that can... you get the point.
