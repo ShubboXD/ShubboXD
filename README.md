@@ -88,7 +88,7 @@ class Shubbo:
 
 ---
 
-## 🌟 `[SKILL_TREE]`
+## 🌟 `[INTEREST_TREE]`
 
 <div align="center">
 
