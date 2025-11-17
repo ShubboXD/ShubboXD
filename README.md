@@ -4,7 +4,7 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════╗
-║  18 y/o engineering student · INTJ-T                    ║
+║  18 y/o male engineering student · INTJ-T               ║
 ║  best anti-academics nerd out · deep tech enthusiast    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
