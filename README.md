@@ -73,8 +73,8 @@ concepts = [
 
 # ========== CORE PHILOSOPHY ==========
 mindset = """
-I can be the person that will not just change a region,
-But the entire nation along with the world over time.
+I can be the person that will not just change a world,
+But the entire universe along with the multiverse over time.
 """
 ```
 
