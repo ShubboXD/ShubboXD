@@ -9,8 +9,6 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://img.shields.io/badge/STATUS-CREATING-FF1493?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=1a1b27&color=ff1493"/>
-
 ---
 
 ### 💻 `[SYSTEM_SPECS]`
