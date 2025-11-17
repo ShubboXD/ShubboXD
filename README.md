@@ -136,17 +136,9 @@ that can build something that can... you get the point.
 ---
 
 <div align="center">
-<!--
-### 📡 `[CONNECTION_PORTS]`
-<!
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1b27)](https://twitter.com/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1b27)](https://discord.com/users/yourid)
-<!
----
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=ff1493&style=for-the-badge&label=PROFILE_VIEWS"/>
+
+<img src="https://komarev.com/ghpvc/?username=Shubbo&color=ff1493&style=for-the-badge&label=PROFILE_VIEWS"/>
 
 ```ascii
 ╔═══════════════════════════════════════╗
