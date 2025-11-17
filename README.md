@@ -155,3 +155,7 @@ that can build something that can... you get the point.
 <div align="center">
 ⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞
 </div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/subhodip-sikdar-8509a326a">ma linkdin</a>
+</div>
