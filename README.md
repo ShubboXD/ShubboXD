@@ -72,7 +72,7 @@ concepts = [
 ]
 
 # ========== CORE PHILOSOPHY ==========
-mindset = """
+belief = """
 I can be the person that will not just change a world,
 But the entire universe along with the multiverse over time.
 """
