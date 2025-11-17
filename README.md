@@ -139,7 +139,7 @@ that can build something that can... you get the point.
 
 
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=ff1493&style=for-the-badge&label=PROFILE_VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ShubboXD&color=ff1493&style=for-the-badge&label=PROFILE_VIEWS"/>
 
 ```ascii
 ╔═══════════════════════════════════════╗
