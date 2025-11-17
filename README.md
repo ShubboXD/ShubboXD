@@ -10,8 +10,6 @@
 ```
 
 <img src="https://img.shields.io/badge/STATUS-GRINDING-FF1493?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=1a1b27&color=ff1493"/>
-<img src="https://img.shields.io/badge/MODE-LEARNING_OVERDRIVE-00D9FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1b27&color=00d9ff"/>
-<img src="https://img.shields.io/badge/VIBE-ANIME_TECH-BB86FC?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=1a1b27&color=bb86fc"/>
 
 ---
 
