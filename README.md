@@ -74,29 +74,6 @@ class Shubbo:
 
 <div align="center">
 
-### 💭 `[INNER_MONOLOGUE]`
-
-> *"My childhood + teenage was wasted on entertainment instead of Socialising and learning (Regret that eats me till this date)  
-> now I'm catching up to all that, really fast."*
-
-</div>
-
----
-
-## 🌟 `[INTEREST_TREE]`
-
-<div align="center">
-
-| 🧠 **NEURAL NETWORKS** | 🧫 **BIOTECH** | 💾 **SYSTEMS** |
-|:---:|:---:|:---:|
-| Agents, automation, and solving male loneliness with the epic AI girlfriends | Live long, learn more → research health & genetics | Strategy games, complex systems, automation |
-
-| 💹 **MICROECONOMICS** | 🪐 **SPACE EXPLORATION** |
-|:---:|:---:|
-| Incentives, optimization, rational decisions, growing wallet | KSP vibes, orbital mechanics, colonization |
-
-</div>
-
 ---
 
 ## ⚔️ `[EQUIPMENT_LOADOUT]`
