@@ -36,7 +36,7 @@
 
 ### 🛠️ toolbox
 
-Languages:   Python · SQL · C/C++ (learning) · Java (basics) · HTML/CSS · a bit of JS
-Concepts:    Algorithms · Data structures · Automation · System design (early)
+Languages:   Python · SQL · C/C++ (learning) · Java (basics) · HTML/CSS · a bit of JS <br/>
+Concepts:    Algorithms · Data structures · Automation · System design (early) <br/>
 Mindset:     I wanna build something that can build something that can build something that can... you get the point.
 
