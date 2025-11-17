@@ -148,6 +148,6 @@ that can build something that can... you get the point.
 ╚═══════════════════════════════════════╝
 ```
 
-*✨ currently buffing stats and leveling up ✨*
+*✨ currently listening to spotify and completing projects ✨*
 
 </div>
