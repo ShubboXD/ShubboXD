@@ -139,14 +139,14 @@ that can build something that can... you get the point.
 
 
 <img src="https://komarev.com/ghpvc/?username=Shubbo&color=ff1493&style=for-the-badge&label=PROFILE_VIEWS"/>
-<div align="center">
+
 ```ascii
 ╔═══════════════════════════════════════╗
 ║  "Code. Learn. Build. Repeat."       ║
 ║  "The grind never stops." ⚡         ║
 ╚═══════════════════════════════════════╝
 ```
-</div>
+
 *✨ currently buffing stats and leveling up ✨*
 
 </div>
