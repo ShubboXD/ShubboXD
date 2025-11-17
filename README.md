@@ -41,7 +41,7 @@ class Shubbo:
     def __init__(self):
         self.dreams = ["floating cities", "cyborgs", "Ai tech dominance"]
         self.side_quest = "manga artist"
-        self.current_mission = "training my own self"
+        self.current_mission = "getting better than my dreams"
     
     def ultimate_goal(self):
         return "Be THAT person in deep tech (AI / robotics / bioengineering)"
