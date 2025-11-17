@@ -39,26 +39,17 @@
 ```yaml
 class Shubbo:
     def __init__(self):
-        self.dreams = ["floating cities", "machine integration", "deep tech dominance"]
+        self.dreams = ["floating cities", "cyborgs", "Ai tech dominance"]
         self.side_quest = "manga artist"
-        self.current_mission = "catching up on lost time"
+        self.current_mission = "training my own self"
     
     def ultimate_goal(self):
-        return "Be the man in deep tech (AI / robotics / bioengineering)"
+        return "Be THAT person in deep tech (AI / robotics / bioengineering)"
 ```
 
 <table>
 <tr>
-<td width="50%">
-
-### 🛰️ **MAIN QUESTS**
-- 🏙️ Hoping for **floating cities** in the future
-- 🤖 Wants to **integrate machines** with "society" *evil laugh* hahahah
-- 📚 Creating a self-made story in **Capacities** (future manga material)
-- 🎯 Goal: Become the deep tech protagonist (AI/Robotics/Bioengineering)
-
-</td>
-<td width="50%">
+<td>
 
 ### 🎮 **FAVORITE DUNGEONS**
 - 🏭 **Factorio** — automation heaven
