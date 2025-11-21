@@ -39,25 +39,8 @@
 <div>
 
 ```python
-# ========== WEAPON ARSENAL ==========
-languages = {
-    "programming_languages": [
-        "C",
-        "C++ (learning)",
-        "C# (learning)",
-        "Java (learning)",
-        "Python",
-        "Rust (learning)"
-    ],
-    "web_technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript (learning)"
-    ],
-    "database_languages": [
-        "SQL"
-    ]
-}
+I've learnt python (basic level wiuth sql) and webdev (html + css)
+My main language is Rust, and I plan to continue devloping on it.
 ```
 
 
