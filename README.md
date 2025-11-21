@@ -39,7 +39,7 @@
 <div>
 
 ```python
-main_languages = ["Rust", "Python (Ai)", "C++ (Legacy integration)"]
+primary_languages = ["Rust", "Python", "C++ (learning)"]
 other_languages = ["C", "Go", "SQL", "Html", "CSS", "Javascript"]
 ```
 
