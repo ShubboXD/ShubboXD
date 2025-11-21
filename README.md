@@ -40,7 +40,7 @@
 
 ```python
 primary_languages = ["Rust", "Python", "C++ (learning)"]
-other_languages = ["C", "Go", "SQL", "Html", "CSS", "Javascript"]
+other_languages = ["C", "C#", "Go", "SQL", "Html", "CSS", "Javascript"]
 ```
 
 
