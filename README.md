@@ -71,13 +71,6 @@ languages = {
 
 <img src="https://komarev.com/ghpvc/?username=ShubboXD&color=ff1493&style=for-the-badge&label=PROFILE_VIEWS"/>
 
-```ascii
-╔═══════════════════════════════════════╗
-║  "Code. Learn. Build. Repeat."       ║
-║  "The grind never stops." ⚡         ║
-╚═══════════════════════════════════════╝
-```
-
 *✨ currently listening to spotify and working on projects ✨*
 
 </div>
