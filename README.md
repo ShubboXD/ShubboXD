@@ -39,8 +39,8 @@
 <div>
 
 ```python
-I've know python (basic level with sql) and webdev (html + css)
-My main language is Rust, and I plan to continue devloping on it.
+main_language = rust
+other_language = ["C", "Python", "SQL", "Html", "CSS"]
 ```
 
 
