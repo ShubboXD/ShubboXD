@@ -16,7 +16,7 @@
 <table align="center">
 <tr>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/OS-Debian-0078D6?style=flat-square&logo=windows&logoColor=white"/><br/>
 <sub><b>OPERATING_SYSTEM</b></sub>
 </td>
 <td align="center" width="200">
