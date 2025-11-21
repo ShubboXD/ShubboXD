@@ -5,7 +5,7 @@
 ```ascii
 ╔══════════════════════════════════════════════════════════╗
 ║  18 y/o male engineering student · INTJ-T               ║
-║  best anti-academics nerd out · linux user              ║
+║  I'm a Rust Developer · linux user                      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
