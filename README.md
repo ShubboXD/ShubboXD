@@ -36,7 +36,7 @@
 
 ## ⚔️ `[EQUIPMENT_LOADOUT]`
 
-<div align="center">
+<div>
 
 ```python
 # ========== WEAPON ARSENAL ==========
