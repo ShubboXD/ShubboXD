@@ -39,7 +39,7 @@
 <div>
 
 ```python
-main_language = rust
+main_language = "Rust"
 other_language = ["C", "Python", "SQL", "Html", "CSS"]
 ```
 
