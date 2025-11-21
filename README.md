@@ -66,15 +66,9 @@ languages = {
 ---
 
 <div align="center">
-
-
-
 <img src="https://komarev.com/ghpvc/?username=ShubboXD&color=ff1493&style=for-the-badge&label=PROFILE_VIEWS"/>
-
 *✨ currently listening to spotify and working on projects ✨*
-
 </div>
-
 <div align="center">
 ⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞
 </div>
