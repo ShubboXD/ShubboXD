@@ -39,7 +39,7 @@
 <div>
 
 ```python
-I've learnt python (basic level wiuth sql) and webdev (html + css)
+I've learnt python (basic level with sql) and webdev (html + css)
 My main language is Rust, and I plan to continue devloping on it.
 ```
 
