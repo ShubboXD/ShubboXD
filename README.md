@@ -34,23 +34,6 @@
 
 ---
 
-## 🎴 `[CHARACTER_PROFILE]`
-
-```yaml
-class Shubbo:
-    def __init__(self):
-        self.dreams = ["floating cities", "cyborgs", "Ai tech dominance"]
-        self.side_quest = "manga artist"
-        self.current_mission = "getting better than my dreams"
-    
-    def ultimate_goal(self):
-        return "Be THAT person in deep tech (AI / robotics / bioengineering)"
-```
-
-<div align="center">
-
----
-
 ## ⚔️ `[EQUIPMENT_LOADOUT]`
 
 <div align="center">
@@ -58,25 +41,25 @@ class Shubbo:
 ```python
 # ========== WEAPON ARSENAL ==========
 languages = {
-    "primary": ["Python", "SQL"],
-    "training": ["C/C++"],
-    "backup": ["Java", "HTML/CSS", "JavaScript"]
+    "programming_languages": [
+        "C",
+        "C++ (learning)",
+        "C# (learning)",
+        "Java (learning)",
+        "Python",
+        "Rust (learning)"
+    ],
+    "web_technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript (learning)"
+    ],
+    "database_languages": [
+        "SQL"
+    ]
 }
 
-# ========== BATTLE STRATEGIES ==========
-concepts = [
-    "Algorithms",
-    "Data Structures", 
-    "Automation",
-    "System Design (early game)"
-]
 
-# ========== CORE PHILOSOPHY ==========
-belief = """
-I can be the person that will not just change a world,
-But the entire universe along with the multiverse over time.
-"""
-```
 
 </div>
 
