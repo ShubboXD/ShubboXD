@@ -40,7 +40,7 @@
 
 ```python
 main_language = "Rust"
-other_language = ["C", "Python", "SQL", "Html", "CSS"]
+other_languages = ["C", "Python", "SQL", "Html", "CSS"]
 ```
 
 
