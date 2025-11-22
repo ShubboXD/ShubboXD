@@ -39,7 +39,8 @@
 <div>
 
 ```python
-primary_languages = ["Rust", "Python", "C++ (learning)"]
+primary_language = "Rust"
+secondary_languages = ["Python", "C++ (learning)"]
 other_languages = ["C", "C#", "Go", "SQL", "Html", "CSS", "Javascript"]
 ```
 
