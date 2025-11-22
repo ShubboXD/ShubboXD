@@ -34,7 +34,7 @@
 
 ---
 
-## ⚔️ `[EQUIPMENT_LOADOUT]`
+## ⚔️ `[TOOLKIT]`
 
 <div>
 
