@@ -39,6 +39,7 @@
 <div>
 
 ```python
+The more important the rank, the better I'm in it:
 primary_language = "Rust"
 secondary_languages = ["Python", "C++ (newbie)"]
 other_languages = ["C", "C#", "Go", "SQL", "Html", "CSS", "Javascript"]
