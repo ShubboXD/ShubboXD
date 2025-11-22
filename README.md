@@ -8,7 +8,7 @@
 ║  I'm a Rust Developer · linux user                      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-https://api.roadmap.sh/v1-badge/txt?url=https://roadmap.sh/u/shubbo
+📘 My learning profile: https://roadmap.sh/u/shubbo
 
 ---
 
