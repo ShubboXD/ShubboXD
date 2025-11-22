@@ -43,7 +43,7 @@
 The more important the rank, the better I'm in it:
 primary_language = "Rust"
 secondary_languages = ["Python", "TypeScript"]
-other_languages = ["C", "SQL", "Html", "CSS"]
+other_languages = ["C", "SQL", "Html", "CSS", "Javascript"]
 ```
 
 
