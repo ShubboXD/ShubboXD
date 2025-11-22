@@ -8,7 +8,6 @@
 ║  I'm a Rust Developer · linux user                      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-📘 My learning profile: [Roadmap.sh](https://roadmap.sh/u/shubbo)
 
 ---
 
@@ -34,7 +33,9 @@
 </div>
 
 ---
-
+<div align="center">
+📘 My learning profile: [Roadmap.sh](https://roadmap.sh/u/shubbo)
+</div>
 ## ⚔️ `[TOOLKIT]`
 
 <div>
