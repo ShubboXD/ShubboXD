@@ -53,7 +53,7 @@ other_languages = ["C", "SQL", "Html", "CSS", "Javascript"]
     
 <div align="center">
     
-📘 My learning profile: [Roadmap.sh](https://roadmap.sh/u/shubbo)
+📘 My learning profile: [Roadmap.sh](https://roadmap.sh/u/shubbo) /  [W3Schools](https://www.w3profile.com/Shubbo) 
 </div>
 <div align="center">
 ⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞
