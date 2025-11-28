@@ -4,5 +4,5 @@
 
 </div>
 hobby - story_writing <br>
-I like complex programming languages like Rust, Haskell, C++ because real life is much more complex for me, failed in every 9/10 exams.
+I like complex programming languages like Rust, Haskell, C++ because real life is much more complex for me, failed in every 4/5 exams.
 And I use arch btw :)
