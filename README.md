@@ -4,4 +4,4 @@
 
 </div>
 hobby - story_writing <br>
-I like tough programming language like Rust, Haskell, C++ because real life is much tougher for me.
+I like tough programming languages like Rust, Haskell, C++ because real life is much tougher for me.
