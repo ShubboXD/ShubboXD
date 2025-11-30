@@ -5,5 +5,5 @@
 </div>
 more about me... <br>
 hobby - story_writing <br>
-And I use arch + neovim btw <br>
-I cannot, without spotify or youtube music
+I cannot, without spotify or youtube music <br>
+And I use arch with neovim btw 
