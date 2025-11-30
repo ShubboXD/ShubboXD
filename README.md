@@ -4,4 +4,4 @@
 
 </div>
 hobby - story_writing <br>
-And I use arch + neovim btw :)
+And I use arch + neovim btw 
