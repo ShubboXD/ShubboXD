@@ -4,6 +4,5 @@
 
 </div>
 about me... <br>
-hobby - story_writing, tech <br>
-spotify or youtube music are must for me <br>
-And I use arch + neovim setup for programming
+hobby - story_writing <br>
+I use arch + neovim btw 
